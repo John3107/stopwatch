@@ -7,18 +7,17 @@
   align-items: center;
 }
 
-.watch {
-  font-size: 4rem;
+.table {
+  font-size: 3rem;
   font-weight: bold;
   margin: 5rem 0;
-  color: #1d3557;
+  color: #2f704d;
 }
 
 .buttons button {
-  background-color: #1d3557;
+  background-color: #2f704d;
   border: none;
-  border-radius: 50%;
-  height: 96px;
+  height: 66px;
   width: 96px;
   margin: 10px;
   font-size: 32px;
