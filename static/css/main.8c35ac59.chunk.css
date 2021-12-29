@@ -1,0 +1,2 @@
+.app{height:90vh;text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center}.table{font-size:3rem;font-weight:700;margin:5rem 0;color:#2f704d}.buttons button{background-color:#2f704d;border:none;height:66px;width:96px;margin:10px;font-size:32px;color:#fff;transition:all .3s;box-shadow:0 8px 15px rgba(0,0,0,.1)}.buttons button:hover{cursor:pointer;box-shadow:0 15px 20px rgba(0,0,0,.4);transform:translateY(-5px)}.buttons button.stop{background-color:#e63946}
+/*# sourceMappingURL=main.8c35ac59.chunk.css.map */
